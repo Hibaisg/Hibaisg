@@ -10,7 +10,7 @@ I'm a Business Analytics researcher working at the intersection of BI, econometr
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hiba-ghram-110200265/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiba-ghram-110200265/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:hibaghram1507@gmail.com)
 
 <!--
