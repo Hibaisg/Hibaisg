@@ -1,6 +1,6 @@
 ### Hi there, I'm Hiba 👋
 
-I'm a Master's student in Business Analytics, working at the intersection of BI, econometrics, and artificial intelligence.
+I'm a Master's student in Business Analytics, working at the intersection of BI, Econometrics, and Artificial Intelligence.
 
 - 🔭 Currently working on Computer Vision and Deep Learning projects
 
